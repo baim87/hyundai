@@ -12,7 +12,7 @@ const representativesData = [
         name: "Ika",
         lastNameOrTitle: "Purnama", // Or "Top Sales Consultant"
         achievement: "1280 Clients Helped", // Replaces 'item_price'
-        imgSrc: "/assets/images/sales/sales.jpg", // Replace with actual representative image
+        imgSrc: "http://volantris.web.id/wp-content/uploads/2025/05/sales.jpg", // Replace with actual representative image
         imgAlt: "Ika - Representative of the Month",
         departmentOrBrand: "Hyundai Sales", // Replaces 'product_label'
         rating: 4.5, // Example rating

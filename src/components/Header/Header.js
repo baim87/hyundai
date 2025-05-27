@@ -95,17 +95,17 @@ export default function Header() {
 
     // Data for menus
     const vehicleMenuItems = [
-        { href: "/vehicle/venue", imgSrc: "/assets/images/cars/venue.webp", alt: "venue", title: "Venue" },
-        { href: "/vehicle/new-creta", imgSrc: "/assets/images/cars/new-creta.webp", alt: "new creta", title: "New Creta" },
-        { href: "/vehicle/ioniq5n", imgSrc: "/assets/images/cars/ioniq5n.webp", alt: "IONIQ 5 N", title: "IONIQ 5 N" },
-        { href: "/vehicle/new-tucson", imgSrc: "/assets/images/cars/new-tucson.webp", alt: "new Tucson", title: "The New Tucson" },
-        { href: "/vehicle/all-new-santa-fe", imgSrc: "/assets/images/cars/all-new-santa-fe.webp", alt: "All New Santa FE", title: "All New Santa FE" },
-        { href: "/vehicle/all-new-kona-electric", imgSrc: "/assets/images/cars/all-new-kona.webp", alt: "All New Kona", title: "All New Kona Electric" },
-        { href: "/vehicle/ioniq6", imgSrc: "/assets/images/cars/ioniq6.webp", alt: "ioniq6", title: "IONIQ 6" },
-        { href: "/vehicle/stargazer", imgSrc: "/assets/images/cars/stargazer.webp", alt: "stargazer", title: "Stargazer" },
-        { href: "/vehicle/creta", imgSrc: "/assets/images/cars/creta.webp", alt: "creta", title: "Creta" },
-        { href: "/vehicle/staria", imgSrc: "/assets/images/cars/staria.webp", alt: "staria", title: "Staria" },
-        { href: "/vehicle/palisade", imgSrc: "/assets/images/cars/palisade.webp", alt: "palisade", title: "Palisade" },
+        { href: "/vehicle/venue", imgSrc: "http://volantris.web.id/wp-content/uploads/2025/05/venue.webp", alt: "venue", title: "Venue" },
+        { href: "/vehicle/new-creta", imgSrc: "http://volantris.web.id/wp-content/uploads/2025/05/new-creta.webp", alt: "new creta", title: "New Creta" },
+        { href: "/vehicle/ioniq5n", imgSrc: "http://volantris.web.id/wp-content/uploads/2025/05/ioniq5n.webp", alt: "IONIQ 5 N", title: "IONIQ 5 N" },
+        { href: "/vehicle/new-tucson", imgSrc: "http://volantris.web.id/wp-content/uploads/2025/05/new-tucson.webp", alt: "new Tucson", title: "The New Tucson" },
+        { href: "/vehicle/all-new-santa-fe", imgSrc: "http://volantris.web.id/wp-content/uploads/2025/05/all-new-santa-fe.webp", alt: "All New Santa FE", title: "All New Santa FE" },
+        { href: "/vehicle/all-new-kona-electric", imgSrc: "http://volantris.web.id/wp-content/uploads/2025/05/all-new-kona.webp", alt: "All New Kona", title: "All New Kona Electric" },
+        { href: "/vehicle/ioniq6", imgSrc: "http://volantris.web.id/wp-content/uploads/2025/05/ioniq6.webp", alt: "ioniq6", title: "IONIQ 6" },
+        { href: "/vehicle/stargazer", imgSrc: "http://volantris.web.id/wp-content/uploads/2025/05/stargazer.webp", alt: "stargazer", title: "Stargazer" },
+        { href: "/vehicle/creta", imgSrc: "http://volantris.web.id/wp-content/uploads/2025/05/creta.webp", alt: "creta", title: "Creta" },
+        { href: "/vehicle/staria", imgSrc: "http://volantris.web.id/wp-content/uploads/2025/05/staria.webp", alt: "staria", title: "Staria" },
+        { href: "/vehicle/palisade", imgSrc: "http://volantris.web.id/wp-content/uploads/2025/05/palisade.webp", alt: "palisade", title: "Palisade" },
     ];
 
     const servicesLayananSubmenu = [
