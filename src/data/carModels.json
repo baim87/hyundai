@@ -1,0 +1,337 @@
+[
+  {
+    "model_name": "Venue",
+    "model_image_url": "/assets/images/cars/venue.webp",
+    "product_id": "venue",
+    "category": "suv",
+    "card_desktop_image": "/assets/images/cards/venue-card-desktop.webp",
+    "card_mobile_image": "/assets/images/cards/venue-card-desktop.webp",
+    "alt_text": "VENUE",
+    "actions": [
+        { "icon": "fab fa-whatsapp", "text": "Whatsapp", "link": "#!" },
+        { "icon": "fas fa-eye", "text": "Selengkapnya", "link": "/vehicle/venue" },
+        { "icon": "fas fa-file-pdf", "text": "e-Brochure", "link": "#!" }
+    ],
+    "variants": [
+      {
+        "variant_name": "1.0L Turbo",
+        "transmission": "AT",
+        "price": 340000000,
+        "currency": "IDR"
+      }
+    ],
+    "model_options": [
+      {
+        "description": "Two tone color",
+        "additional_price": 3000000,
+        "currency": "IDR"
+      }
+    ]
+  },
+  {
+    "model_name": "New CRETA",
+    "model_image_url": "/assets/images/cars/new-creta.webp",
+    "product_id": "New creta",
+    "category": "suv",
+    "card_desktop_image": "/assets/images/cards/creta-card-desktop.webp",
+    "card_mobile_image": "/assets/images/cards/creta-card-desktop.webp",
+    "alt_text": "CRETA",
+    "actions": [
+        { "icon": "fab fa-whatsapp", "text": "Whatsapp", "link": "#!" },
+        { "icon": "fas fa-eye", "text": "Selengkapnya", "link": "/vehicle/creta" },
+        { "icon": "fas fa-file-pdf", "text": "e-Brochure", "link": "#!" }
+    ],
+    "variants": [
+      { "variant_name": "Active", "transmission": "MT", "price": 299700000, "currency": "IDR" },
+      { "variant_name": "Trend Manual", "transmission": "MT", "price": 331640000, "currency": "IDR" },
+      { "variant_name": "Trend Auto", "transmission": "AT", "price": 352140000, "currency": "IDR" },
+      { "variant_name": "Style", "transmission": "AT", "price": 396640000, "currency": "IDR" },
+      { "variant_name": "Prime", "transmission": "AT", "price": 426940000, "currency": "IDR" },
+      { "variant_name": "N Line", "transmission": "AT", "price": 460500000, "currency": "IDR" },
+      { "variant_name": "N Line Turbo", "transmission": "AT", "price": 507280000, "currency": "IDR" }
+    ],
+    "model_options": [
+      {
+        "description": "2 Tone color",
+        "additional_price": 3000000,
+        "currency": "IDR"
+      }
+    ]
+  },
+  {
+    "model_name": "IONIQ 5 N",
+    "model_image_url": "/assets/images/cars/ioniq5n.webp",
+    "product_id": "ioniq-5-n",
+    "category": "ev",
+    "card_desktop_image": "/assets/images/cards/ioniq5n-card-desktop.webp",
+    "card_mobile_image": "/assets/images/cards/ioniq5n-card-desktop.webp",
+    "alt_text": "IONIQ 5 N",
+    "actions": [
+        { "icon": "fab fa-whatsapp", "text": "Whatsapp", "link": "#!" },
+        { "icon": "fas fa-eye", "text": "Selengkapnya", "link": "/vehicle/ioniq-5-n" },
+        { "icon": "fas fa-file-pdf", "text": "e-Brochure", "link": "#!" }
+    ],
+    "variants": [
+      {
+        "variant_name": "IONIQ 5N",
+        "transmission": "AT",
+        "price": 1317600000,
+        "currency": "IDR"
+      }
+    ],
+    "model_options": [
+      {
+        "description": "Performance blue matte with black colour",
+        "additional_price": 3500000,
+        "currency": "IDR"
+      }
+    ]
+  },
+  {
+    "model_name": "The New TUCSON",
+    "model_image_url": "/assets/images/cars/new-tucson.webp",
+    "product_id": "tucson",
+    "category": "suv",
+    "card_desktop_image": "/assets/images/cards/tucson-card-desktop.webp",
+    "card_mobile_image": "/assets/images/cards/tucson-card-desktop.webp",
+    "alt_text": "TUCSON",
+    "actions": [
+        { "icon": "fab fa-whatsapp", "text": "Whatsapp", "link": "#!" },
+        { "icon": "fas fa-eye", "text": "Selengkapnya", "link": "/vehicle/tucson" },
+        { "icon": "fas fa-file-pdf", "text": "e-Brochure", "link": "#!" }
+    ],
+    "variants": [
+      {
+        "variant_name": "Smartstream G1.6T-GDi Hybrid",
+        "transmission": "AT",
+        "price": 766600000,
+        "currency": "IDR"
+      },
+      {
+        "variant_name": "Smartstream G2.0 Mpi",
+        "transmission": "AT",
+        "price": 652000000,
+        "currency": "IDR"
+      }
+    ],
+    "model_options": [
+      {
+        "description": "Matte colour",
+        "additional_price": 3500000,
+        "currency": "IDR"
+      }
+    ]
+  },
+  {
+    "model_name": "The All New SANTA FE",
+    "model_image_url": "/assets/images/cars/all-new-santa-fe.webp",
+    "product_id": "santa-fe",
+    "category": "suv",
+    "card_desktop_image": "/assets/images/cards/santafe-card-desktop.webp",
+    "card_mobile_image": "/assets/images/cards/santafe-card-desktop.webp",
+    "alt_text": "SANTA FE",
+    "actions": [
+        { "icon": "fab fa-whatsapp", "text": "Whatsapp", "link": "#!" },
+        { "icon": "fas fa-eye", "text": "Selengkapnya", "link": "/vehicle/santa-fe" },
+        { "icon": "fas fa-file-pdf", "text": "e-Brochure", "link": "#!" }
+    ],
+    "variants": [
+      {
+        "variant_name": "Prime 2.5 GDi",
+        "transmission": "AT",
+        "price": 724000000,
+        "currency": "IDR"
+      },
+      {
+        "variant_name": "Prime 1.6T-GDi Hybrid",
+        "transmission": "AT",
+        "price": 814300000,
+        "currency": "IDR"
+      },
+      {
+        "variant_name": "Calligraphy 2.5 GDi",
+        "transmission": "AT",
+        "price": 812500000,
+        "currency": "IDR"
+      },
+      {
+        "variant_name": "Calligraphy 1.6T-GDi Hybrid",
+        "transmission": "AT",
+        "price": 900500000,
+        "currency": "IDR"
+      }
+    ],
+    "model_options": [
+      {
+        "description": "Matte color",
+        "additional_price": 3500000,
+        "currency": "IDR"
+      }
+    ]
+  },
+  {
+    "model_name": "All New Kona Electric",
+    "model_image_url": "/assets/images/cars/all-new-kona.webp",
+    "product_id": "kona-electric",
+    "category": "ev",
+    "card_desktop_image": "/assets/images/cards/kona-electric-card-desktop.webp",
+    "card_mobile_image": "/assets/images/cards/kona-electric-card-desktop.webp",
+    "alt_text": "KONA Electric",
+    "actions": [
+        { "icon": "fab fa-whatsapp", "text": "Whatsapp", "link": "#!" },
+        { "icon": "fas fa-eye", "text": "Selengkapnya", "link": "/vehicle/kona-electric" },
+        { "icon": "fas fa-file-pdf", "text": "e-Brochure", "link": "#!" }
+    ],
+    "variants": [
+      { "variant_name": "Style STD Range", "transmission": "AT", "price": 516000000, "currency": "IDR" },
+      { "variant_name": "Prime STD Range", "transmission": "AT", "price": 532700000, "currency": "IDR" },
+      { "variant_name": "Prime Long Range", "transmission": "AT", "price": 579200000, "currency": "IDR" },
+      { "variant_name": "Signature STD Range", "transmission": "AT", "price": 594800000, "currency": "IDR" },
+      { "variant_name": "Signature Long Range", "transmission": "AT", "price": 610200000, "currency": "IDR" },
+      { "variant_name": "N Line", "transmission": "AT", "price": 629400000, "currency": "IDR" }
+    ],
+    "model_options": [
+      { "description": "Matte color", "additional_price": 3500000, "currency": "IDR" },
+      { "description": "2 Tone color", "additional_price": 3000000, "currency": "IDR" }
+    ]
+  },
+  {
+    "model_name": "Ioniq 6",
+    "model_image_url": "/assets/images/cars/ioniq6.webp",
+    "product_id": "ioniq-6",
+    "category": "ev",
+    "card_desktop_image": "/assets/images/cards/ioniq6-card-desktop.webp",
+    "card_mobile_image": "/assets/images/cards/ioniq6-card-desktop.webp",
+    "alt_text": "IONIQ 6",
+    "actions": [
+        { "icon": "fab fa-whatsapp", "text": "Whatsapp", "link": "#!" },
+        { "icon": "fas fa-eye", "text": "Selengkapnya", "link": "/vehicle/ioniq-6" },
+        { "icon": "fas fa-file-pdf", "text": "e-Brochure", "link": "#!" }
+    ],
+    "variants": [
+      { "variant_name": "Signature", "transmission": "AT", "price": 1237200000, "currency": "IDR" }
+    ],
+    "model_options": [
+      { "description": "Matte Color", "additional_price": 3500000, "currency": "IDR" }
+    ]
+  },
+  {
+    "model_name": "Stargazer",
+    "model_image_url": "/assets/images/cars/stargazer.webp",
+    "product_id": "stargazer", 
+    "category": "mpv",
+    "card_desktop_image": "/assets/images/cards/stargazer-card-desktop.webp",
+    "card_mobile_image": "/assets/images/cards/stargazer-card-desktop.webp",
+    "alt_text": "Stargazer",
+    "actions": [
+        { "icon": "fab fa-whatsapp", "text": "Whatsapp", "link": "#!" },
+        { "icon": "fas fa-eye", "text": "Selengkapnya", "link": "/vehicle/stargazer" },
+        { "icon": "fas fa-file-pdf", "text": "e-Brochure", "link": "#!" }
+    ],
+    "variants": [
+      { "variant_name": "Active", "transmission": "MT", "price": 258200000, "currency": "IDR" },
+      { "variant_name": "Active", "transmission": "IVT", "price": 271550000, "currency": "IDR" },
+      { "variant_name": "Essential", "transmission": "MT", "price": 270300000, "currency": "IDR" },
+      { "variant_name": "Essential", "transmission": "IVT", "price": 282000000, "currency": "IDR" },
+      { "variant_name": "Essential Tech", "transmission": "IVT", "price": 302500000, "currency": "IDR" },
+      { "variant_name": "Prime", "transmission": "IVT", "price": 331900000, "currency": "IDR" },
+      { "variant_name": "X Style", "transmission": "IVT", "price": 347750000, "currency": "IDR" },
+      { "variant_name": "X Prime", "transmission": "IVT", "price": 358600000, "currency": "IDR" }
+    ],
+    "model_options": [
+      { "description": "Captain Seat", "additional_price": 1000000, "currency": "IDR", "applies_to_text": "Trend, Prime, Essential & Style" },
+      { "description": "Two Tone Roof", "additional_price": 1500000, "currency": "IDR", "applies_to_text": "Prime" },
+      { "description": "Premium Color", "additional_price": 3500000, "currency": "IDR", "applies_to_text": "X Prime One Tone Color" }
+    ]
+  },
+  {
+    "model_name": "Ioniq 5",
+    "model_image_url": "/assets/images/cars/ioniq5.webp",
+    "product_id": "ioniq-5",
+    "category": "ev",
+    "card_desktop_image": "/assets/images/cards/ioniq5-card-desktop.webp",
+    "card_mobile_image": "/assets/images/cards/ioniq5-card-desktop.webp",
+    "alt_text": "IONIQ 5",
+    "actions": [
+        { "icon": "fab fa-whatsapp", "text": "Whatsapp", "link": "#!" },
+        { "icon": "fas fa-eye", "text": "Selengkapnya", "link": "/vehicle/ioniq-5" },
+        { "icon": "fas fa-file-pdf", "text": "e-Brochure", "link": "#!" }
+    ],
+    "variants": [
+      { "variant_name": "Prime STD Range", "transmission": "AT", "price": 738300000, "currency": "IDR" },
+      { "variant_name": "Prime Long Range", "transmission": "AT", "price": 777100000, "currency": "IDR" },
+      { "variant_name": "Signature STD Range", "transmission": "AT", "price": 797500000, "currency": "IDR" },
+      { "variant_name": "Signature Long Range", "transmission": "AT", "price": 844600000, "currency": "IDR" },
+      { "variant_name": "Batik", "transmission": "AT", "price": 911200000, "currency": "IDR" }
+    ],
+    "model_options": [
+      { "description": "Gravity Gold Matte color", "additional_price": 3500000, "currency": "IDR" }
+    ]
+  },
+  {
+    "model_name": "Creta",
+    "model_image_url": "/assets/images/cars/creta.webp",
+    "product_id": "creta",
+    "category": "suv",
+    "card_desktop_image": "/assets/images/cards/creta-card-desktop.webp",
+    "card_mobile_image": "/assets/images/cards/creta-card-desktop.webp",
+    "alt_text": "CRETA",
+    "actions": [
+        { "icon": "fab fa-whatsapp", "text": "Whatsapp", "link": "#!" },
+        { "icon": "fas fa-eye", "text": "Selengkapnya", "link": "/vehicle/creta" },
+        { "icon": "fas fa-file-pdf", "text": "e-Brochure", "link": "#!" }
+    ],
+    "variants": [
+      { "variant_name": "Active 1.5", "transmission": "MT", "price": 306300000, "currency": "IDR" },
+      { "variant_name": "Trend 1.5", "transmission": "MT", "price": 329000000, "currency": "IDR" },
+      { "variant_name": "Trend 1.5", "transmission": "IVT", "price": 350900000, "currency": "IDR" },
+      { "variant_name": "Style 1.5", "transmission": "IVT", "price": 395550000, "currency": "IDR" },
+      { "variant_name": "Prime 1.5 Single Tone", "transmission": "IVT", "price": 429600000, "currency": "IDR" },
+      { "variant_name": "Alpha", "transmission": "IVT", "price": 434800000, "currency": "IDR" }
+    ],
+    "model_options": [
+      { "description": "Prime 1.5 Dual Tone", "additional_price": 3000000, "currency": "IDR", "applies_to_text": "Prime 1.5 variants" }
+    ]
+  },
+  {
+    "model_name": "Staria",
+    "model_image_url": "/assets/images/cars/staria.webp",
+    "product_id": "staria",
+    "category": "mpv",
+    "card_desktop_image": "/assets/images/cards/staria-card-desktop.webp",
+    "card_mobile_image": "/assets/images/cards/staria-card-desktop.webp",
+    "alt_text": "STARIA",
+    "actions": [
+        { "icon": "fab fa-whatsapp", "text": "Whatsapp", "link": "#!" },
+        { "icon": "fas fa-eye", "text": "Selengkapnya", "link": "/vehicle/staria" },
+        { "icon": "fas fa-file-pdf", "text": "e-Brochure", "link": "#!" }
+    ],
+    "variants": [
+      { "variant_name": "Signature 7", "transmission": "AT", "price": 1072400000, "currency": "IDR" },
+      { "variant_name": "Signature 9", "transmission": "AT", "price": 934700000, "currency": "IDR" }
+    ],
+    "model_options": []
+  },
+  {
+    "model_name": "Palisade",
+    "model_image_url": "/assets/images/cars/palisade.webp",
+    "product_id": "palisade",
+    "category": "suv",
+    "card_desktop_image": "/assets/images/cards/palisade-card-desktop.webp",
+    "card_mobile_image": "/assets/images/cards/palisade-card-desktop.webp",
+    "alt_text": "PALISADE",
+    "actions": [
+        { "icon": "fab fa-whatsapp", "text": "Whatsapp", "link": "#!" },
+        { "icon": "fas fa-eye", "text": "Selengkapnya", "link": "/vehicle/palisade" },
+        { "icon": "fas fa-file-pdf", "text": "e-Brochure", "link": "#!" }
+    ],
+    "variants": [
+      { "variant_name": "D 2.2 Prime", "transmission": "AT", "price": 943800000, "currency": "IDR" },
+      { "variant_name": "D 2.2 Signature", "transmission": "AT", "price": 1089700000, "currency": "IDR" },
+      { "variant_name": "D 2.2 Signature AWD", "transmission": "AT", "price": 1202900000, "currency": "IDR" },
+      { "variant_name": "D 2.2 Signature XRT", "transmission": "AT", "price": 1118600000, "currency": "IDR" },
+      { "variant_name": "D 2.2 Signature AWD XRT", "transmission": "AT", "price": 1259500000, "currency": "IDR" }
+    ],
+    "model_options": []
+  }
+]

@@ -1,0 +1,351 @@
+{
+ "ioniq-5": {
+  "vehicleName": "IONIQ 5",
+  "year": "2025",
+  "pageTitle": "Hyundai IONIQ 5 2025 | SUV Listrik | Hyundai Indonesia",
+  "metaDescription": "Jelajahi SUV listrik Hyundai IONIQ 5 yang inovatif. Temukan fitur, jangkauan, spesifikasi, dan desainnya yang futuristik.",
+  "mainHeaderActions": {
+    "searchInventoryLink": "/inventory?model=ioniq-5",
+    "buildPriceLink": "/build/ioniq-5"
+  },
+  "subNavigation": [
+    { "id": "overview", "label": "Ikhtisar", "href": "#overview" },
+    { "id": "trims", "label": "Varian", "href": "#trims" },
+    { "id": "gallery", "label": "Galeri", "href": "#gallery" },
+    { "id": "specs", "label": "Spesifikasi", "href": "#specs" }
+  ],
+  "hero": {
+    "type": "video",
+    "videoSrc": "https://s7mbrstream.scene7.com/hls-vod/hyundai/_media_/347/34703b31-833d-43df-a702-06ecaca1d661.mp4.m3u8",
+    "backgroundSrc": "/assets/images/vehicles/ioniq-5/hero-bg.jpg",
+    "src": "/assets/images/vehicles/ioniq-5/hero-main-car.png",
+    "overlayColor": "rgba(0,0,0,0.25)",
+    "eyebrow": "2025",
+    "title": "IONIQ 5",
+    "tagline": "Harga tetap tanpa kenaikan hingga 2 Juni. ©",
+    "rating": 4.5,
+    "reviewsLink": "#reviews-placeholder",
+    "keySpecs": [
+      { "label": "Harga Awal (MSRP)", "value": "$42.600", "infoLink": "#" },
+      { "label": "Jarak tempuh (EPA)", "value": "hingga 318 mil", "infoLink": "#" },
+      { "label": "Tenaga maksimal", "value": "320 hp / 239 kW", "infoLink": "#" },
+      { "label": "Pengisian daya cepat", "value": "10–80% dalam 20 menit", "infoLink": "#" }
+    ],
+    "ctaRequestQuote": { "text": "Ajukan Penawaran", "link": "/request-quote/ioniq-5" }
+  },
+  "offersSection": {
+    "id": "offers",
+    "titleSuffix": "Penawaran",
+    "zipCode": "07008",
+    "defaultActiveVariantId": "se-standard-range",
+    "variants": [
+      {
+        "id": "se-standard-range",
+        "name": "SE Jangkauan Standar",
+        "offers": [
+          {
+            "type": "Cash",
+            "displayType": "Tunai",
+            "title": "SE Jangkauan Standar",
+            "primaryOffer": "Hingga $7.500",
+            "description": "Bonus tunai ritel untuk IONIQ 5 tertentu. Hanya model dengan kode tertentu yang memenuhi syarat.",
+            "viewDetailsLink": "#cash-details-se-sr"
+          },
+          {
+            "type": "Finance",
+            "displayType": "Kredit",
+            "title": "SE Jangkauan Standar",
+            "primaryOffer": "Bunga 1,99% APR",
+            "description": "Pembiayaan hingga 60 bulan.",
+            "viewDetailsLink": "#finance-details-se-sr"
+          },
+          {
+            "type": "Lease",
+            "displayType": "Sewa",
+            "title": "SE Jangkauan Standar",
+            "primaryOffer": "$209/bulan",
+            "description": "24 bulan dengan uang muka $3.999 termasuk Bonus Sewa EV $7.500 (RWD)",
+            "viewDetailsLink": "#lease-details-se-sr"
+          }
+        ]
+      },
+      {
+        "id": "se",
+        "name": "SE",
+        "offers": [
+          {
+            "type": "Cash",
+            "displayType": "Tunai",
+            "title": "SE",
+            "primaryOffer": "Hingga $7.000",
+            "description": "Bonus tunai untuk model SE. Syarat dan ketentuan berlaku.",
+            "viewDetailsLink": "#cash-details-se"
+          },
+          {
+            "type": "Finance",
+            "displayType": "Kredit",
+            "title": "SE",
+            "primaryOffer": "Bunga 2,49% APR",
+            "description": "Pembiayaan hingga 48 bulan untuk varian SE.",
+            "viewDetailsLink": "#finance-details-se"
+          }
+        ]
+      },
+      {
+        "id": "sel",
+        "name": "SEL",
+        "offers": [
+          {
+            "type": "Lease",
+            "displayType": "Sewa",
+            "title": "SEL",
+            "primaryOffer": "$249/bulan",
+            "description": "Penawaran sewa untuk IONIQ 5 SEL. Hubungi dealer untuk info lebih lanjut.",
+            "viewDetailsLink": "#lease-details-sel"
+          }
+        ]
+      },
+      {
+        "id": "limited",
+        "name": "Limited",
+        "offers": [
+          {
+            "type": "Finance",
+            "displayType": "Kredit",
+            "title": "Limited",
+            "primaryOffer": "Bunga 0,99% APR",
+            "description": "Khusus varian Limited selama 36 bulan.",
+            "viewDetailsLink": "#finance-details-limited"
+          }
+        ]
+      },
+      {
+        "id": "xrt",
+        "name": "XRT",
+        "offers": []
+      }
+    ]
+  },
+  "exteriorInteriorView": {
+    "title": "Jelajahi Eksterior",
+    "tabs": [
+      { "id": "exterior", "label": "Eksterior" }
+    ],
+    "colors": [
+      {
+        "name": "Midnight Black Pearl",
+        "hex": "#1E1E1E",
+        "imageSrc": "https://hyundaimobil.co.id/vehicle/assets/images/ioniq-5/colors/midnight-black-pearl.png",
+        "isDefault": false
+      },
+      {
+        "name": "Magnetic Silver Metalic",
+        "hex": "#787A79",
+        "imageSrc": "https://hyundaimobil.co.id/vehicle/assets/images/ioniq-5/colors/magnetic-silver-metalic.png",
+        "isDefault": false
+      },
+      {
+        "name": "Titan Gray Metallic",
+        "hex": "#5A5B5C",
+        "imageSrc": "https://hyundaimobil.co.id/vehicle/assets/images/ioniq-5/colors/titan-gray-metalic.png",
+        "isDefault": true
+      },
+      {
+        "name": "Optic White",
+        "hex": "#F0F0F0",
+        "imageSrc": "https://hyundaimobil.co.id/vehicle/assets/images/ioniq-5/colors/optic-white.png",
+        "isDefault": false
+      },
+      {
+        "name": "Gravity Gold Matte",
+        "hex": "#8A8D8F",
+        "imageSrc": "https://hyundaimobil.co.id/vehicle/assets/images/ioniq-5/colors/gravity-gold-matte.png",
+        "isDefault": false
+      }
+    ]
+  },
+  "chargingSection": {
+    "eyebrow": "Pengisian Daya",
+    "titleLine1": "Jangkauan lebih jauh,",
+    "titleLine2": "waktu pengisian lebih cepat.",
+    "description": "Dengan peningkatan baterai, IONIQ 5 terbaru kini mampu menempuh hingga 318 mil (perkiraan EPA) dalam satu kali pengisian daya. Dan hanya membutuhkan 15 menit di stasiun pengisian ultra-cepat 800V untuk mendapatkan tambahan jangkauan 178 mil. ©",
+    "chargePoints": [
+      {
+        "title": "Pengisian ultra-cepat 800V/350kW DC",
+        "detail": "Tambahan jangkauan 178 mil dalam 15 menit.",
+        "note": "Atau isi dari 10% hingga 80% hanya dalam 20 menit. IONIQ 5 dapat menangani pengisian ultra-cepat menggunakan adaptor CCS. ©"
+      },
+      {
+        "title": "Pengisian rumah 240V AC",
+        "detail": "Isi dari 10% hingga 100% dalam sekitar 7 jam 20 menit.",
+        "note": "Charger rumah Level 2 (tidak termasuk) dapat mengisi varian SE Standard Range dalam 5 jam 40 menit. ©"
+      }
+    ]
+  },
+  "electricAdvantages": {
+    "eyebrow": "IONIQ 5",
+    "items": [
+      {
+        "iconClass": "fa-dollar-sign",
+        "title": "Manfaat Pengisian ChargePoint",
+        "description": "Pembeli dan penyewa IONIQ 5 2025 dapat menerima kredit pengisian ChargePoint® senilai $400 atau unit pengisi daya ChargePoint Home Flex Level 2. ©"
+      },
+      {
+        "iconClass": "fa-car",
+        "title": "Akses Jalur Cepat (HOV)",
+        "description": "Berkendara sendiri di jalur carpool (tersedia di beberapa wilayah). ©"
+      },
+      {
+        "iconClass": "fa-gas-pump",
+        "title": "Tidak perlu ke SPBU",
+        "description": "Isi daya di rumah, kantor, atau stasiun pengisian umum yang terus bertambah."
+      },
+      {
+        "iconClass": "fa-oil-can",
+        "title": "Tanpa ganti oli",
+        "description": "Dan tanpa perawatan cairan transmisi."
+      },
+      {
+        "iconClass": "fa-leaf",
+        "title": "Tanpa emisi gas buang",
+        "description": "Menuju masa depan yang lebih ramah lingkungan."
+      },
+      {
+        "iconClass": "fa-tachometer-alt",
+        "title": "Akselerasi instan",
+        "description": "Motor listrik memberikan torsi seketika dengan halus."
+      }
+    ]
+  },
+  "wheelbaseSpaceSection": {
+    "eyebrow": "Jarak Sumbu Roda & Ruang",
+    "title": "Lebih dari yang terlihat.",
+    "description": "Keunggulan kendaraan listrik adalah memberikan ruang kabin yang lebih bebas. Dengan platform e-GMP tanpa mesin pembakaran, IONIQ 5 memiliki lantai datar sepenuhnya dan jarak sumbu roda lebih panjang dibandingkan SUV crossover lainnya. Meskipun panjangnya mirip TUCSON, jarak sumbu rodanya bahkan lebih panjang daripada PALISADE tiga baris.",
+    "comparisonImage1": {
+      "src": "/assets/images/vehicles/ioniq-5/wheelbase-ioniq5.png",
+      "alt": "IONIQ 5 Wheelbase",
+      "label": "IONIQ 5",
+      "dimension": "118,1 inci"
+    },
+    "comparisonImage2": {
+      "src": "/assets/images/vehicles/palisade/wheelbase-palisade.png",
+      "alt": "Palisade Wheelbase",
+      "label": "PALISADE",
+      "dimension": "114,2 inci"
+    }
+  },
+  "gallerySection": {
+    "images": [
+      { "src": "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0901-gallery:4-3?wid=800&hei=600&qlt=85,0&fmt=webp", "alt": "Tampilan Depan Eksterior IONIQ 5" },
+      { "src": "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0914-gallery:4-3?wid=800&hei=600&qlt=85,0&fmt=webp", "alt": "Detail Belakang IONIQ 5" },
+      { "src": "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0279-vlp:4-3?wid=800&hei=600&qlt=85,0&fmt=webp", "alt": "Tampilan Samping IONIQ 5" },
+      { "src": "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0918-vlp:4-3?wid=800&hei=600&qlt=85,0&fmt=webp", "alt": "IONIQ 5 di Luar Ruangan" },
+      { "src": "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0230-gallery-02:7-5?wid=700&hei=500&qlt=85,0&fmt=webp", "alt": "Dashboard Interior IONIQ 5" },
+      { "src": "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0231-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp", "alt": "Kursi Interior IONIQ 5" }
+    ]
+  },
+  "smartSenseSection": {
+    "eyebrow": "Hyundai SmartSense",
+    "items": [
+      {
+        "imageSrc": "/assets/images/vehicles/common/smartsense-scc.jpg",
+        "title": "Smart Cruise Control (SCC) dengan Stop & Go",
+        "description": "Tersedia di SE, SEL, dan Limited. Menjaga jarak aman menggunakan radar, dan akan bergerak kembali setelah berhenti jika kendaraan di depan bergerak dalam 3 detik. ©"
+      },
+      {
+        "imageSrc": "/assets/images/vehicles/common/smartsense-svm.jpg",
+        "title": "Surround View Monitor (SVM)",
+        "description": "Tersedia pada varian Limited. Menyediakan tampilan 360 derajat di sekitar kendaraan. ©"
+      },
+      {
+        "imageSrc": "/assets/images/vehicles/common/smartsense-bvm.jpg",
+        "title": "Blind-Spot View Monitor (BVM)",
+        "description": "Tersedia pada varian Limited. Menampilkan video langsung saat Anda menyalakan lampu sein untuk berpindah jalur. ©"
+      }
+    ]
+  },
+  "faqSection": {
+    "eyebrow": "FAQ",
+    "title": "Pertanyaan Umum seputar IONIQ 5",
+    "faqs": [
+      {
+        "question": "Seberapa cepat IONIQ 5 dapat diisi daya?",
+        "answer": "Dengan charger ultra-cepat 800V DC, IONIQ 5 dapat memperoleh tambahan jangkauan 178 mil dalam sekitar 15 menit, atau dari 10% ke 80% dalam waktu 18 menit."
+      },
+      {
+        "question": "Apakah Hyundai IONIQ 5 termasuk sedan atau SUV?",
+        "answer": "IONIQ 5 diklasifikasikan sebagai Crossover Utility Vehicle (CUV) kompak atau SUV listrik kompak, dengan kabin luas dan serbaguna."
+      }
+    ]
+  }
+},
+  "tucson": {
+    "vehicleName": "Tucson",
+    "year": "2025",
+    "pageTitle": "2025 Tucson | Compact SUV | Hyundai USA",
+    "metaDescription": "Discover the versatile and stylish Hyundai Tucson.",
+    "mainHeaderActions": {
+      "searchInventoryLink": "/inventory?model=tucson",
+      "buildPriceLink": "/build/tucson"
+    },
+    "subNavigation": [
+      { "id": "overview", "label": "Overview", "href": "#overview" },
+      { "id": "gallery", "label": "Gallery", "href": "#gallery" },
+      { "id": "specs", "label": "Specs", "href": "#specs" }
+    ],
+    "hero": {
+      "type": "image",
+      "src": "/assets/images/vehicles/tucson/hero-main-car.png",
+      "backgroundSrc": "/assets/images/vehicles/tucson/hero-bg.jpg",
+      "eyebrow": "2025",
+      "title": "Tucson",
+      "tagline": "Adventure-ready. Tech-smart.",
+      "rating": 4.2,
+      "reviewsLink": "#reviews-placeholder",
+      "keySpecs": [
+        { "label": "Starting MSRP", "value": "$28,500", "infoLink": "#" },
+        { "label": "Combined EPA-est. MPG", "value": "Up to 28", "infoLink": "#" }
+      ],
+      "ctaRequestQuote": { "text": "Request a Quote", "link": "/request-quote/tucson" }
+    },
+    "chargingSection": null,
+    "electricAdvantages": null,
+    "wheelbaseSpaceSection": {
+      "eyebrow": "Dimensions",
+      "title": "Spacious & Versatile",
+      "description": "The Tucson offers ample room for passengers and cargo, making it perfect for families and adventurers alike.",
+      "comparisonImage1": { "src": "/assets/images/vehicles/tucson/wheelbase-tucson.png", "alt": "Tucson Wheelbase", "label": "TUCSON", "dimension": "108.5 inches" },
+      "comparisonImage2": null
+    },
+    "exteriorInteriorView": {
+      "title": "Explore Tucson",
+      "viewerPlaceholderImage": "/assets/images/vehicles/tucson/360-view-placeholder.jpg",
+      "tabs": [
+        { "id": "exterior", "label": "Exterior" },
+        { "id": "interior", "label": "Interior" }
+      ],
+      "colors": [
+        { "name": "Phantom Black", "image": "/assets/images/vehicles/tucson/color-phantom-black.png", "isDefault": true },
+        { "name": "Shimmering Silver", "image": "/assets/images/vehicles/tucson/color-shimmering-silver.png", "isDefault": false }
+      ]
+    },
+    "gallerySection": {
+      "images": [
+        { "src": "/assets/images/vehicles/tucson/gallery-1.jpg", "alt": "Tucson Front View" }
+      ]
+    },
+    "smartSenseSection": {
+      "eyebrow": "Hyundai SmartSense",
+      "items": [
+        { "imageSrc": "/assets/images/vehicles/common/smartsense-scc.jpg", "title": "Smart Cruise Control (SCC)", "description": "Maintains a set distance from the vehicle ahead, automatically adjusting speed." }
+      ]
+    },
+    "faqSection": {
+      "eyebrow": "FAQ",
+      "title": "Questions about Tucson?",
+      "faqs": [
+        { "question": "What is the fuel economy of the Tucson?", "answer": "The 2025 Hyundai Tucson can achieve up to an EPA-estimated 28 MPG combined, depending on the trim and drivetrain." }
+      ]
+    }
+  }
+}
